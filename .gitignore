@@ -1,2 +1,5 @@
 vendor/
 .bundle/
+_site/
+*~
+.*.sw[a-z]
